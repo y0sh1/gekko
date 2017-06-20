@@ -43,3 +43,6 @@ history
 TMP_*
 .idea
 volumes
+
+# Do not publish used config
+config.js
